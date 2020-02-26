@@ -2,12 +2,14 @@
 
 ## Contact info
 +375(33)628-93-64(MTS)
+
 Dmitriy.tarasienko@gmail.com
 
 Minsk, Oktyabrskaya st., 10-302
 
 ##Education
 2018-2020
+
 Belarusian State University
 
 Faculty of Applied Mathematics and Computer Science
