@@ -29,6 +29,7 @@ Command project. The role-playing game is a 2D strategy with RPG elements, the c
 I wrote c#-scripts, game engine, made unit-testing, designed locations and managed the project.
 
 _Technologies:_ C#, Unity 3D, Visual Studio 2015 
+
 1. February 2020 - Today | FAMCS TimeTable | Personal Project
 Command project. An android application that provides opportunity to check their timetable.
 I have been working with back-end and design.
